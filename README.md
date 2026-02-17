@@ -20,3 +20,7 @@ PROCESOS
    Verificación de las unidades requeridas
    Registra y guarda la información obtenida mediante la validación y verificación
 
+SALIDAS
+   venta de un componente
+   reporte y solicitud garantía
+   se usa libremente
