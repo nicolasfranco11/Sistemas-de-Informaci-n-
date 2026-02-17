@@ -16,29 +16,3 @@ ENTRADAS:
    Son numeros (seriales)
 
 
-   PROCESOS
-   Validacion de los componentes ingresados
-   Verificacion de las unidades requeridas
-   Registra y guarda la informacion obtenida mediante la validacion y verificacion
-
-
-   SALIDAS
-   VENTA DE UN COMPONENTE
-   REPORTE Y SOLICITUD GARANTIA
-   SE USA LIBREMENTE
-
-   USUARIOS
-   -ADMIN
-   -COMPRADOR
-
-   -NO,solo el admin puede vertoda la informacion de la pagina es decir : el inventario , modificacion ,actualizar y eliminar
-
-   El comprador solo puede visualizar el sotck para realizar la compra
-   solicitud de una garantia
-
-   No tiene permisos porque solo puede realizar compras
-
-   INFORMACION
-
-   Los recibos , garantias con proveedores
-   la informacion registrada de la empresa (BASE DE DATOS)
