@@ -24,3 +24,19 @@ SALIDAS
    venta de un componente
    reporte y solicitud garantía
    se usa libremente
+   
+USUARIOS
+   -ADMIN
+   -COMPRADOR
+
+   -NO, solo el admin puede ver toda la información de la página, es decir: el inventario, modificación, actualizar y eliminar
+
+   El comprador solo puede visualizar el stock para realizar la compra
+   solicitud de una garantía
+
+   No tiene permisos porque solo puede realizar compras
+
+   INFORMACION
+
+   Los recibos, garantías con proveedores
+   la información registrada de la empresa (BASE DE DATOS)
