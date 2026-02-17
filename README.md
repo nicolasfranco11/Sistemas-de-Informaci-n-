@@ -15,4 +15,8 @@ ENTRADAS:
    Administrador de importacion
    Son numeros (seriales)
 
+PROCESOS
+   Validación de los componentes ingresados
+   Verificación de las unidades requeridas
+   Registra y guarda la información obtenida mediante la validación y verificación
 
