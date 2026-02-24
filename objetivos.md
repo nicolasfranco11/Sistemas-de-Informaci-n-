@@ -24,3 +24,4 @@ Convenios con fabricadores comon(Asus , gigabyte , msi) ETC
 Básicamente será una empresa desordenada con un rumbo muy incierto ,
 posiblemente sin una expansión web y física , con marcas no garantizadas y
 proveedores chinos
+
