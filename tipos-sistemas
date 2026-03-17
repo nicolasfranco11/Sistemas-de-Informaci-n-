@@ -12,12 +12,11 @@ c. encargado del soporte tecnico
 
 3.¿Qué datos manejará el sistema?
 
-1.productos (GPU.CPU,BOARD,RAM,ALMACENAMIENTO,PSU,CHASIS,REFRIGERACION)
-2. inventario (Cantidad de los productos es decir si hay stock)
-3. Pedidos/Envios (estado del pedido , guia de seguimiento)
-4. Clientes (datos personales , historial de compras)
-5. Proveedores (informacion de contacto,garantias , productos suministrados y solicitados)
-
+a.productos (GPU.CPU,BOARD,RAM,ALMACENAMIENTO,PSU,CHASIS,REFRIGERACION)
+b. inventario (Cantidad de los productos es decir si hay stock)
+c. Pedidos/Envios (estado del pedido , guia de seguimiento)
+d. Clientes (datos personales , historial de compras)
+e. Proveedores (informacion de contacto,garantias , productos suministrados y solicitados)
 
 4. ¿Qué decisiones apoyará?
 El sistema apoyara la toma de desiciones relacionadas con el control del inventario, analisis de ventas,gestion de garantias, soporte tecnico
