@@ -1,0 +1,24 @@
+1. ¿Qué tipo de sistema están construyendo?
+Estamos costuyendo un sistema ERP, para una venta online de hardware, con el fin que podamos vender los componentes de alto rendimiento y poder llegar a integrase a una tienda fisica.
+
+2. ¿Quiénes serán los usuarios?
+Rol:
+1. Administrador(encargado de manejar el control total del sistema)
+2. Cliente( el usuario adquiere productos mediante el sistema)
+3. Empleados 
+a. Encargado de las venta 
+b. Encargado de la logistica
+c. encargado del soporte tecnico
+
+3.¿Qué datos manejará el sistema?
+
+1.productos (GPU.CPU,BOARD,RAM,ALMACENAMIENTO,PSU,CHASIS,REFRIGERACION)
+2. inventario (Cantidad de los productos es decir si hay stock)
+3. Pedidos/Envios (estado del pedido , guia de seguimiento)
+4. Clientes (datos personales , historial de compras)
+5. Proveedores (informacion de contacto,garantias , productos suministrados y solicitados)
+
+
+4. ¿Qué decisiones apoyará?
+El sistema apoyara la toma de desiciones relacionadas con el control del inventario, analisis de ventas,gestion de garantias, soporte tecnico
+y la logistica, por la cual nos ayudara a identificar los productos que son mas vendidos, las fallas frecuentes que se encuentran, los niveles del stock y la optimizacion de procesos del negocio
