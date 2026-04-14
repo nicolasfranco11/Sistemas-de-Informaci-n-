@@ -11,7 +11,7 @@ REQUERIMIENTOS FUNCIONALES
 
 REQUERIMIENTOS NO FUNCIONALES
 1.	USABILIDAD: el sistema debe ser fácil de usar y entendible.
-2.	RENDIMIENTO: el sistema debe responder rápido a las acciones del usuario
-3.	DISPONIBILIDAD: el sistema debe estar disponible la mayor parte del tiempo
+2.	RENDIMIENTO: el sistema debe responder rápido a las acciones del usuario minimo 3 segundos
+3.	DISPONIBILIDAD: el sistema debe estar disponible la mayor parte del tiempo es decir 24/7
 4.	CONFIABLIDAD: el sistema debe manejar información correcta y sin errores
 
