@@ -10,8 +10,12 @@ REQUERIMIENTOS FUNCIONALES
 9.	Consultar pedidos: el sistema permite visualizar la lista de los pedidos registrados con su información y estado actual.
 
 REQUERIMIENTOS NO FUNCIONALES
-1.	USABILIDAD: el sistema debe ser fácil de usar y entendible.
-2.	RENDIMIENTO: el sistema debe responder rápido a las acciones del usuario minimo 3 segundos
-3.	DISPONIBILIDAD: el sistema debe estar disponible la mayor parte del tiempo es decir 24/7
-4.	CONFIABLIDAD: el sistema debe manejar información correcta y sin errores
 
+1. USABILIDAD: El sistema debe ser fácil de usar, con una interfaz clara que permita a los usuarios a entender cómo funciona y sin complicaciones.
+2. RENDIMIENTO:  El sistema debe responder en menos de 3 segundo para evitar demoras
+3. CONFIABILIDAD: El sistema debe manejar la información correcta sin errores y garantizar que la infromacion se guarde de manera segura.
+4. SEGURIDAD: EL sistema debe proteger la información de todos los usuarios y evitar accesos no autorizados. 
+5. DISPONIBILIDAD: El sistema debe estar disponible la mayor parte del tiempo para que el usuario pueda acceder cuando lo necesite 
+6. COMPATIBILIDAD: El sistema debe funcionar en diferentes navegadores o dispositivos sin presentar fallas 
+7. MANTENIBILIDAD:  El sistema debe realizar cambios o algunas mejorar de forma sencilla sin que se vea afectado el rendimiento
+8. PORTABILIDAD: El sistema de poder utilizarse en diferentes dispositivos como, computadores o celulares.
