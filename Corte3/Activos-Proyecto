@@ -1,0 +1,33 @@
+Activos identificados del proyecto 
+
+1. Base de datos:
+La base de datos almacena toda la información importante del sistema,como:
+a. Clientes
+b. Empleados 
+c. Productos
+d. Compras 
+e. Pago
+Responsable: Administrados BD
+Autoridad: Líder técnico
+
+2. Repositorio de código: Espacio donde se almacena el código fuente del proyecto y se gestionan las actualizaciones del sistema
+Responsable: Desarrolladores
+Autoridad: Líder técnico
+
+3. Servidor de despliegue: Permite ejecutar y publicar el sistema para que pueda ser utilizad por los usuarios.
+Responsable: Líder técnico
+Autoridad: Scrum Master
+
+4.Sistema de autenticación: Controla el acceso de usuarios mediante validación de credenciales y protección de cuentas
+Responsable: Administrados BD
+Autoridad: Líder técnico
+
+5. Sistema de almacenamiento: Permite guardar información adicional del sistema como:
+a. Imagenes de productos
+b. Registros
+Responsable: Administrados BD
+Autoridad: Líder técnico
+
+6. Caja y Sistema de inventario: Gestiona el control de productos,ventas y actualizaciones sel stock disponible.
+Responsable: Administrados 
+Autoridad: Cliente/Gerencia.
