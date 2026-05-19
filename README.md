@@ -41,21 +41,29 @@ USUARIOS
    Los recibos, garantías con proveedores
    la información registrada de la empresa (BASE DE DATOS)
 
-   Avance del proyecto:
-   1. Contexto Administrativo:
+Avance del proyecto:
+1. Contexto Administrativo:
 Contexto Administrativo: Para nuestro sistema ARMOR-PC enfocado en la venta de componentes de hardware apoya una estructura descentralizada ya que la venta de los componentes se requiere una actualización constante del stock, las necesidades del cliente, debe saber actuar de manera rápida ante los cambios que presenta el mercado. 
 La estructura descentralizada garantiza que la experiencia del usuario sea fluida y eficaz que el inventario también se mantenga al día es decir en tiempo real. 
+
 2. Modelo de roles 
 <img width="685" height="454" alt="image" src="https://github.com/user-attachments/assets/6af4affb-b18b-46d1-8ecb-2758fd4d9ce4" />
+
 3. Matriz Raci 
 <img width="669" height="339" alt="image" src="https://github.com/user-attachments/assets/80266a75-ffa5-42ec-b68c-bb86c20e5f0b" />
-4. Cliente 
+
+4. Diccionario de datos
+cliente
 <img width="840" height="155" alt="image" src="https://github.com/user-attachments/assets/aee8975d-a1b5-40de-bce2-1f8636ac8ed3" />
+
 Empleado
 <img width="851" height="163" alt="image" src="https://github.com/user-attachments/assets/e20365b8-6a0f-413e-a578-039b35763366" />
+
 productos
 <img width="904" height="169" alt="productos" src="https://github.com/user-attachments/assets/82a0e753-8138-429e-bba6-419bab857173" />
+
 compra
 <img width="861" height="167" alt="image" src="https://github.com/user-attachments/assets/cf46b6bb-654c-4be1-bdac-2afd9bcddfbe" />
+
 Pago
 <img width="881" height="173" alt="image" src="https://github.com/user-attachments/assets/13912e5a-2ea8-4ed4-8a7a-7c280ca9c193" />
