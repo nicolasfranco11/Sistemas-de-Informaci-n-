@@ -98,21 +98,29 @@ Los datos ingresados por los usuarios pasan por procesos de validación antes de
 
 
 Flujo del sistema
+
+
 <img width="316" height="527" alt="image" src="https://github.com/user-attachments/assets/03f4f0bb-d781-4202-9c61-5ea68c4d0352" />
 
 
 
 Jerarquia del procesamiento de datos
+
+
 <img width="231" height="451" alt="image" src="https://github.com/user-attachments/assets/ce8de326-2e71-4084-adfa-75125a52ef1a" />
 
 
 
 Formato operativo de pedidos 
+
+
 <img width="267" height="492" alt="image" src="https://github.com/user-attachments/assets/51e0b3c2-529c-459e-9014-43e7b7307d19" />
 
 
 
 Relación entre modulos
+
+
 <img width="265" height="430" alt="image" src="https://github.com/user-attachments/assets/585abacf-7cea-4343-a3b5-6d46fac6fcb8" />
 
 
